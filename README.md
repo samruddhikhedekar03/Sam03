@@ -1,4 +1,4 @@
-Hello ,This is my profile 👋
+
 <h1 align="center">👋 Hello, I'm Samruddhi Khedekar</h1>
 
 <p align="center">
@@ -14,7 +14,7 @@ Hello ,This is my profile 👋
 ## 🌟 About Me
  I'm Samruddhi Khedekar, I am currently studying in the third year of BCA and I am Self learner in developing both static and responsive websites and is eager to expand my knowledge and skills in web development.I am a quick learner and a great team player.I enjoy working with others to find creative solutions to complex challenges .I consider myself responsible and the focus person
 
-- 🔭 I’m currently working on **[OnlineBookStore]**
+- 🔭 I’m currently working on **[OnlineBookStore project]**
 - 💬 Ask me about **JavaScript, Python, Angular, and Web Development**
 - 📫 Reach me at: **[samruddhikhedekar0@gmail.com]**
 - 🌍 Visit my portfolio: **[(https://github.com/samruddhikhedekar03)]**
