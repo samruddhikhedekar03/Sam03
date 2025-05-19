@@ -22,8 +22,8 @@
 ---
 
 ## 🚀 Skills
-- **Frontend**: JavaScript, Angular, HTML, CSS, Bootstrap
-- **Backend**: Python (Flask, Django), Node.js
+- **Frontend**: JavaScript, HTML, CSS, 
+- **Backend**: Python (Flask, Django),Mysql,Angular 
 - **Tools & Technologies**: Git, Firebase, VS Code
 
 ---
