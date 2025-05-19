@@ -59,7 +59,7 @@ A modern, responsive portfolio to showcase my work and skills.
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="mailto:[Your Email Address]">
+  <a href="mailto:[samruddhikhedekar0@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/[Your LinkedIn Handle]/">
